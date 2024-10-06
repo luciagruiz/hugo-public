@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi Blog Personal - LGR</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Mi Blog Personal - LGR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mis aficiones</title>
-      <link>http://localhost:1313/posts/mis-aficiones/</link>
+      <link>https://example.org/posts/mis-aficiones/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/mis-aficiones/</guid>
+      <guid>https://example.org/posts/mis-aficiones/</guid>
       
       <description>&lt;h1 id=&#34;aficiones-y-pasatiempos&#34;&gt;Aficiones y Pasatiempos&lt;/h1&gt;
 &lt;h2 id=&#34;voleibol&#34;&gt;Voleibol&lt;/h2&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Sobre mí</title>
-      <link>http://localhost:1313/posts/sobre-mi/</link>
+      <link>https://example.org/posts/sobre-mi/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sobre-mi/</guid>
+      <guid>https://example.org/posts/sobre-mi/</guid>
       
       <description>&lt;h1 id=&#34;acerca-de-mí&#34;&gt;Acerca de mí&lt;/h1&gt;
 &lt;p&gt;Soy una estudiante de &lt;strong&gt;2º ASIR&lt;/strong&gt; apasionada por la tecnología. Mi camino en este mundo de la informática comenzó cuando descubrí lo fascinante que es entender cómo funcionan los sistemas y cómo podemos utilizarlos para resolver problemas.&lt;/p&gt;
@@ -49,18 +49,18 @@
     
     <item>
       <title>Bienvenid@</title>
-      <link>http://localhost:1313/posts/inicio/</link>
+      <link>https://example.org/posts/inicio/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/inicio/</guid>
+      <guid>https://example.org/posts/inicio/</guid>
       
       <description>&lt;h1 id=&#34;hola-soy-lucía-g-ruiz&#34;&gt;¡Hola! Soy Lucía G. Ruiz&lt;/h1&gt;
 &lt;p&gt;Bienvenida a mi sitio web personal. Actualmente estoy estudiando &lt;strong&gt;2º ASIR&lt;/strong&gt; (Administración de Sistemas Informáticos en Red) y me apasiona todo lo relacionado con la tecnología.&lt;/p&gt;
 &lt;p&gt;Además de la informática, me encanta el &lt;strong&gt;voleibol&lt;/strong&gt;. Cuando no estoy entre líneas de código, seguramente me encontrarás en la pista jugando o entrenando.&lt;/p&gt;
 &lt;h2 id=&#34;secciones&#34;&gt;Secciones&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;sobre-mi.md&#34;&gt;Sobre mí&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mis-aficiones.md&#34;&gt;Mis aficiones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.org/posts/sobre-mi/&#34;&gt;Sobre mí&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.org/posts/mis-aficiones/&#34;&gt;Mis aficiones&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>

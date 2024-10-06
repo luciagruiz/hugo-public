@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Blog Personal - LGR</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Mi Blog Personal - LGR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis aficiones</title>
+      <link>http://localhost:1313/posts/mis-aficiones/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mis-aficiones/</guid>
+      
+      <description>&lt;h1 id=&#34;aficiones-y-pasatiempos&#34;&gt;Aficiones y Pasatiempos&lt;/h1&gt;
+&lt;h2 id=&#34;voleibol&#34;&gt;Voleibol&lt;/h2&gt;
+&lt;p&gt;El &lt;strong&gt;voleibol&lt;/strong&gt; es mi deporte favorito. He estado jugando durante años y disfruto tanto de los partidos como del trabajo en equipo. Aquí algunos de los beneficios que encuentro en este deporte:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mejora la coordinación.&lt;/li&gt;
+&lt;li&gt;Fomenta el trabajo en equipo.&lt;/li&gt;
+&lt;li&gt;Mantiene el cuerpo activo y saludable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i0.wp.com/www.vivirenmontequinto.com/wp-content/uploads/2023/09/CampeonasCopa.jpeg?resize=548%2C365&amp;amp;ssl=1&#34; alt=&#34;voleibol&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/posts/sobre-mi/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/sobre-mi/</guid>
+      
+      <description>&lt;h1 id=&#34;acerca-de-mí&#34;&gt;Acerca de mí&lt;/h1&gt;
+&lt;p&gt;Soy una estudiante de &lt;strong&gt;2º ASIR&lt;/strong&gt; apasionada por la tecnología. Mi camino en este mundo de la informática comenzó cuando descubrí lo fascinante que es entender cómo funcionan los sistemas y cómo podemos utilizarlos para resolver problemas.&lt;/p&gt;
+&lt;p&gt;Algunas de las áreas que me interesan incluyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Administración de sistemas.&lt;/li&gt;
+&lt;li&gt;Redes.&lt;/li&gt;
+&lt;li&gt;Seguridad informática.&lt;/li&gt;
+&lt;li&gt;Desarrollo web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://universodigital.org/wp-content/uploads/introduccion-sistemas-operativos.jpg&#34; alt=&#34;Sistemas Operativos Varios&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Puedes consultar más sobre mi trayectoria académica y proyectos en mi &lt;a href=&#34;https://github.com/luciagruiz&#34;&gt;perfil de GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Bienvenid@</title>
+      <link>http://localhost:1313/posts/inicio/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/inicio/</guid>
+      
+      <description>&lt;h1 id=&#34;hola-soy-lucía-g-ruiz&#34;&gt;¡Hola! Soy Lucía G. Ruiz&lt;/h1&gt;
+&lt;p&gt;Bienvenida a mi sitio web personal. Actualmente estoy estudiando &lt;strong&gt;2º ASIR&lt;/strong&gt; (Administración de Sistemas Informáticos en Red) y me apasiona todo lo relacionado con la tecnología.&lt;/p&gt;
+&lt;p&gt;Además de la informática, me encanta el &lt;strong&gt;voleibol&lt;/strong&gt;. Cuando no estoy entre líneas de código, seguramente me encontrarás en la pista jugando o entrenando.&lt;/p&gt;
+&lt;h2 id=&#34;secciones&#34;&gt;Secciones&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;sobre-mi.md&#34;&gt;Sobre mí&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mis-aficiones.md&#34;&gt;Mis aficiones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

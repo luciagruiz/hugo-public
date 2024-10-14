@@ -6,7 +6,20 @@
     <description>Recent content on Mi Blog Personal - LGR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba: Introducción a la implantación de aplicaciones Web</title>
+      <link>https://example.org/posts/prueba/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/prueba/</guid>
+      
+      <description>&lt;h1 id=&#34;prueba-introducción-a-la-implantación-de-aplicaciones-web&#34;&gt;Prueba: Introducción a la implantación de aplicaciones web&lt;/h1&gt;
+&lt;h2 id=&#34;lucía-garrote-ruiz&#34;&gt;Lucía Garrote Ruiz&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.nubika.es/wp-content/uploads/2023/05/03153705/caracteristicas-pinguino-descubrelas.jpg&#34; alt=&#34;pingüino&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Mis aficiones</title>
       <link>https://example.org/posts/mis-aficiones/</link>
